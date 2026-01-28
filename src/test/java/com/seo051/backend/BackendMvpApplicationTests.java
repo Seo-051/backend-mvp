@@ -1,4 +1,4 @@
-package com.seo051.backend.mvp;
+package com.seo051.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
